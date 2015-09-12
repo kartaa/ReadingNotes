@@ -1,4 +1,4 @@
-# Software Requirements 3rd Ed
+# Software Requirements Third Edition
 
 * The book is a practical guide to software requirements. You don't need to read it completely to start using this knowledge.
 
