@@ -1,6 +1,6 @@
 # Software Requirements Third Edition
 
-* The book is a practical guide to software requirements. You don't need to read it completely to start using this knowledge.
+* The book is a practical guide to software requirements. Page to page reading is not required, for practical use of the concepts explained here.
 
 * At the end of each chapter, a section named 'Next Steps' is provided. I recommend that if you have less time, then just directly go to this section of the topic you are interested in and dive deeper into text only if needed.
 
