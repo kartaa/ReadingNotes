@@ -21,7 +21,7 @@
 14. Page 48. Good practices of all the steps of requirements development mentioned.
 15. Page 53. Baselined requirements: that are agreed upon for a release or an iteration.
 16. Page 58. Classification of requirements development good practices on the lines of difficulty vs value. One can always pick up the low hanging fruits from here for own projects.
-17. Page 61. There is always a BA in every project (albiet not titled so everywhere).
+17. Page 61. There is always a BA in every project (albeit not titled so everywhere).
 18. Page 68-70. How to move to a BA role?
 19. Page 78. Vision and scope document. Such documents are required not only for a project but whole companies too.
 20. Page 81. A software team is not to be expected to resolve conflicts among stakeholders. Thats the job of the BA.
