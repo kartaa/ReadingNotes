@@ -19,7 +19,7 @@
 12. Page 44. A list of good practices in RE.
 13. Page 46. ***Process of requirements development*** described here.
 14. Page 48. Good practices of all the steps of requirements development mentioned.
-15. Page 53. Baselined requirements: requirements that are agreed upon for a release or an iteration.
+15. Page 53. Baselined requirements: that are agreed upon for a release or an iteration.
 16. Page 58. Classification of requirements development good practices on the lines of difficulty vs value. One can always pick up the low hanging fruits from here for own projects.
 17. Page 61. There is always a BA in every project (albiet not titled so everywhere).
 18. Page 68-70. How to move to a BA role?
